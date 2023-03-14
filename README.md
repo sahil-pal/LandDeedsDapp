@@ -1,6 +1,6 @@
 # LandDeedsDapp
 
-##### Pitch Video URL : https://drive.google.com/file/d/1Ewh69vfbixIWEsVwCmI3l_rJrQ1ZEKkX/view?usp=sharing
+##### Pitch Video URL : https://drive.google.com/file/d/1uyVef-cO6I6Xn9y1OMiftR-ZHW1QKxeP/view?usp=share_link
 
 ### Project Description
 - The project aims to provide a decentralised database with transparent actions happening in land registration.
@@ -22,4 +22,4 @@
 - Nodejs for backend
 - VanillaJs for frontend
 - MongoDB for storing auth details
-- Migrated on Dojima network ( Wrapper on chains like Solana )
+- Contract Deployed using infura
